@@ -539,6 +539,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Hilary Parker](https://hilaryparker.com/)
 - [Data Stories](https://datastori.es/)
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
+- [Supervised and unsupervised learning](https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/)
 
 
 
@@ -663,6 +664,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Deep learning crash coures for beginners](https://youtu.be/VyWAvY2CF9c)
+- [Ml features Importance](https://youtu.be/YaKMeAlHgqQ)
+- 
 
 
 
